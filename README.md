@@ -1,2 +1,3 @@
 # FirstProject
-This us my first project on Git.
+This is my first project on Git.
+I am using Github Account.
